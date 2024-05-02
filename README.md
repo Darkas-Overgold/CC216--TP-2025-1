@@ -19,7 +19,7 @@ A la par, los participantes del analisis aprenden y mejoran sus capacidades en e
 
 # Descripción del dataset
 
-Se adjunta la descripcion del data set en el documento a presentar: [upc-pre-2401-3-tp1]([https://github.com/Nemesisian/CC216--TP-2024-1-/blob/main/upc-pre-2401-3-tp1.pdf](https://github.com/Nemesisian/CC216--TP-2024-1-/blob/dcc2a6603e34ea17e65da8ebf6f78609141b5743/upc-pre-2401-3-tp1.pdf)
+Se adjunta la descripcion del data set en el documento a presentar: [upc-pre-2401-3-tp1](https://github.com/Nemesisian/CC216--TP-2024-1-/blob/dcc2a6603e34ea17e65da8ebf6f78609141b5743/upc-pre-2401-3-tp1.pdf)
 
 # Conclusiones
 - La limpieza de dataset es un paso importante para poder recuperar valores que están encubiertos por un “NA”, también se puede usar el método de eliminación de columnas ya que no son datos relevantes para el análisis del dataset.
